@@ -1,0 +1,15 @@
+{
+  "name": "byo-alien",
+  "version": "0.0.1",
+  "description": "Library for building Bring Your Own Key (BYOK) LLM applications",
+  "license": "(MIT OR Apache-2.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbuckfelder/byo-alien.git",
+    "directory": "js/packages/byo-alien"
+  },
+  "keywords": ["llm", "byok", "openai", "anthropic", "ai"],
+  "scripts": {
+    "prepack": "cp ../../../LICENSE-MIT ../../../LICENSE-APACHE ."
+  }
+}
