@@ -1,0 +1,12 @@
+[package]
+name = "byo-alien"
+version = "0.0.1"
+edition = "2024"
+description = "Library for building Bring Your Own Key (BYOK) LLM applications"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/sbuckfelder/byo-alien"
+readme = "../../README.md"
+keywords = ["llm", "byok", "openai", "anthropic", "ai"]
+categories = ["api-bindings"]
+
+[dependencies]
